@@ -185,8 +185,8 @@ lerobot-train \
   --batch_size=64 \
   --steps=20000 \
   --save_freq=5000 \
-  --output_dir=outputs/train/act_so101_3cube_1ksteps \
-  --job_name=act_so101_3cube_1ksteps \
+  --output_dir=outputs/train/act_so101_2cube_1ksteps \
+  --job_name=act_so101_2cube_1ksteps \
   --policy.repo_id=ichbinblau/so101_act_stack2cubes \
   --policy.device=cuda \
   --policy.type=act \
