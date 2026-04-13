@@ -11,6 +11,6 @@
 
    [so101_example.md](so101_example.md)
    
-4. Example template GitHub Repo to commit your work
+4. [Optional] Example template GitHub Repo to commit your work
 
    [AMD_Robotics_Hackathon_2025_ProjectTemplate](https://github.com/AlexHe99/AMD_Robotics_Hackathon_2025_ProjectTemplate)
