@@ -1,4 +1,4 @@
-# Guide of AMD_Robotics_Hackathon_2025
+# Guide of AMD_Robotics_StarkHacks_Hackathon_2026
 
 1. QuickStart for setting up LeRobot Development Environment with AMD Edge ROCm platform.
 
