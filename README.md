@@ -2,7 +2,7 @@
 
 ### Clone the Repo
 
-##### Copy the below code and run it in a Jupyter notebook in the Ryzen™ AI AUP Cloud 
+##### Copy the below code and run it in a Jupyter notebook in the Digital Ocean GPU Droplet 
 ---
 ```Python
 !pip install pygit2
