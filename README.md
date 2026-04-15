@@ -44,7 +44,7 @@ print("Restart Kernel to reload after installing wandb")
 
 ## Update with Your WAMDB Key
 import wandb
-wandb.login(key="YOUR_WANDB_KEY!)
+wandb.login(key="YOUR_WANDB_KEY!")
 
 ## Update with Your HuggingFace Key
 from huggingface_hub import login
