@@ -35,14 +35,12 @@ print(f'device name [0]:', torch.cuda.get_device_name(0))
 !pip install wandb
 
 print("Restart Kernel to reload after installing wandb")
-
 ```
 ---
 
 ##### Then copy and run this code after restarting the Kernel
-
-```
----Python
+---
+```Python
 
 ## Update with Your WAMDB Key
 import wandb
